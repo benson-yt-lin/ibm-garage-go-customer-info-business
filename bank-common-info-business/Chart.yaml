@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: bank-common-info-business
+description: Chart to configure ArgoCD with the bank-common-info-business project and its applications
